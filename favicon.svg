@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="auroraBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e4e47" />
+      <stop offset="100%" stop-color="#123530" />
+    </linearGradient>
+  </defs>
+  <!-- Fundo Circular Verde Esmeralda Aurora -->
+  <circle cx="256" cy="256" r="236" fill="url(#auroraBg)" />
+  <!-- Aro Dourado Refinado -->
+  <circle cx="256" cy="256" r="206" fill="none" stroke="#c5a870" stroke-width="10" opacity="0.95" />
+  <!-- Letra A Serifada -->
+  <text x="256" y="272" 
+        font-family="'Playfair Display', Georgia, 'Times New Roman', serif" 
+        font-size="260" 
+        font-weight="700" 
+        fill="#ffffff" 
+        text-anchor="middle" 
+        dominant-baseline="central">A</text>
+</svg>

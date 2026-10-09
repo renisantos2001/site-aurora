@@ -1,0 +1,15 @@
+# Clínica Aurora
+
+Site institucional demonstrativo de uma clínica multidisciplinar.
+
+## Conteúdo principal
+- Apresentação institucional
+- Especialidades
+- Profissionais
+- Estrutura
+- Fluxo de atendimento
+- Perguntas frequentes
+- Contato e agendamento
+
+## Observação
+Todos os nomes, registros profissionais, contatos e endereços deste modelo são fictícios e devem ser substituídos antes da publicação.
